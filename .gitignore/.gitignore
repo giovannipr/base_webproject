@@ -1,6 +1,6 @@
  $ cat .gitignore
     # exclude everything except directory 
-    /bin
-    /dist
-    /node_modules
+    #/bin
+    #/dist
+    #/node_modules
     
